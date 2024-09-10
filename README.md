@@ -1,2 +1,5 @@
-# dit is een titel
+# MultiMedia Technology
+## Lorenza Loven
+
+[https://www.zuyd.nl] (url)
 # my-first-repo
