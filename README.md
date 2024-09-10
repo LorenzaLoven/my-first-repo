@@ -1,5 +1,7 @@
 # MultiMedia Technology
 ## Lorenza Loven
 
-[https://www.zuyd.nl] (url)
+![omschrijving](url)
+
+[https://www.zuyd.nl]
 # my-first-repo
